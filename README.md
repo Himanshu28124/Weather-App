@@ -1,2 +1,16 @@
-# Weather-App
-A responsive weather app built with HTML, CSS &amp; JavaScript that fetches real-time weather data via API. Supports geolocation-based weather and city search. Displays temperature, humidity, wind, and more with a clean, mobile-friendly UI.
+# Weather App ☀️🌧️
+
+A sleek and responsive weather application built using **HTML**, **CSS**, **JavaScript**, and the **OpenWeatherMap API**. It provides real-time weather updates based on the user's current location or a searched city.
+
+## 🚀 Features
+- Live weather updates with temperature, humidity, and conditions 🌤️
+- Detects location using Geolocation API 📍
+- Search weather by city name 🔎
+- Fully responsive design for desktop and mobile devices 💻📱
+
+## 🛠 Tech Stack
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- OpenWeatherMap API
+
